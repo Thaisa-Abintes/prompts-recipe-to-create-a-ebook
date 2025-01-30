@@ -22,8 +22,8 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema dicas praticas de gerenciamento de projeto,                                                   |
-| conteúdo | Faça um texto para ebook , com em dicas curtas, práticas e objetivas, listando as boas praticas de gerenciamento de projetos de tecnologia
+|  título  | Crie um título de um ebook sobre o tema 'dicas praticas de gerenciamento de projeto'.                                                   |
+| conteúdo | Faça um texto para ebook , com dicas curtas, práticas e objetivas, listando as boas praticas de gerenciamento de projetos de tecnologia
 
 
 Midjourney：
