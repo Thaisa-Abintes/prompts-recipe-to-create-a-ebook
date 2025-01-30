@@ -4,7 +4,7 @@
 
 
 
-Projeto com o objetivo de gerar um ebook digital com as dicas práticas sobre gerenciamento de projetos de tecnologia todos os prompts
+Projeto com o objetivo de gerar um ebook digital com as dicas práticas sobre gerenciamento de projetos de tecnologia.Todos os prompts
 seguem abaixo.
 
 <a href="ebook_13_dicas_gerenciamento_projetos 2.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
